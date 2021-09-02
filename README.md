@@ -1,3 +1,7 @@
+## Test files present inside the cypress/integration folder
+
+#Use npx cypress open to run the test cases in the browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
