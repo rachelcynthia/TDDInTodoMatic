@@ -1,6 +1,6 @@
 # Test files present inside the cypress/integration folder
 
-## Use npx cypress open to run the test cases in the browser
+Use npx cypress open to run the test cases in the browser
 
 # Getting Started with Create React App
 
